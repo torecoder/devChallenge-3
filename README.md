@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](<img src="./images/preview.png" alt="preview">)
+<img src="./images/preview.png" alt="preview">
 
 ### Built With
 
